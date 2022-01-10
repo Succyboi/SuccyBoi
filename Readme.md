@@ -1,7 +1,5 @@
-# Heyo! It’s me Pelle!
+# Heyoweyo! (｡･ω･｡)つ📞
 
-If you'd like to find out more about what I do or if you want to get in touch you can do so [Here](http://www.stupidplusplus.com).
+I'm Pelle "Stupid++" Bruinsma. A Dutch programmer, game designer and creator of digital toys.
 
-I'm also on [Itch.io](https://stupidplusplus.itch.io/).
-
-Peace out! ✌🏻
+If you wanna know more about me you can follow my Instagram or visit my Site.
