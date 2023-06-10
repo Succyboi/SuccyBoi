@@ -1,2 +1,3 @@
-[stupid++](http://stupidplusplus.com/).
+[stupid++](http://stupidplusplus.com/)
+
 make software silly again
