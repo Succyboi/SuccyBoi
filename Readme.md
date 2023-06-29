@@ -2,4 +2,4 @@
 
 make software silly again
 
-[stupid++ knowledge base](https://github.com/Succyboi/StupidPlusPlusKnowledgeBase)
+[stupid++ knowledge base](https://github.com/Succyboi/StupidPlusPlusKnowledgeBase) (for friends)
